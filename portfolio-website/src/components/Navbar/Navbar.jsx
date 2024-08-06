@@ -5,7 +5,7 @@ import { FaBars } from 'react-icons/fa';
 import { Bio } from '../../data/constants';
 import { useTheme } from 'styled-components';
 import TwitterIcon from '@mui/icons-material/Twitter';
-import {SocialMediaIcon, MobileSocialMediaIcon} from '../Navbar/NavbarStyle.js';
+import {SocialMediaIcon, MobileSocialMediaIcon} from '../Navbar/NavbarStyle';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import { SiLeetcode, SiCodeforces, SiGithub, SiGmail } from "react-icons/si";
 
