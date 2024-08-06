@@ -264,7 +264,7 @@ export const Bio = {
       description:
         "The Cloud Vendor Application allows users to manage cloud vendor data through a set of RESTful API endpoints. Users can create new cloud vendor records, retrieve existing records, update details, and delete records as needed. This application exemplifies best practices in RESTful API design and serves as an educational tool for developers learning about Spring Boot and RESTful services.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+        "https://miro.medium.com/v2/resize:fit:1024/1*45Y1dRGskA0-memvDBd6Hg.png",
       tags: ["Spring Boot", "Java", "PostMan"],
       category: "web app",
       github: "https://github.com/sanjnaofficial/rest-api-crud-implementation",
