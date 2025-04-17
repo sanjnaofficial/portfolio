@@ -11,7 +11,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/sanjnaofficial",
     resume:
-      "https://drive.google.com/file/d/1AKYr--mhev5xMUzdTYMZu-Qbi8LzjERf/view?usp=sharing",
+      "https://drive.google.com/file/d/1o4QyVwpKm12WBv7K-cSsA2NKoCPh2nZ8/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sanjna-sharma-1702bts/",
     twitter: "https://twitter.com/sanjna_official",
     email: "mailto:sanjna.contact@gmail.com",
